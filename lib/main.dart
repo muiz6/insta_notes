@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Insta Notes',
       debugShowCheckedModeBanner: false,
       theme: appTheme,
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
